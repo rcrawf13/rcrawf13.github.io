@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # rcrawf13.github.io
 =======
 # React + TypeScript + Vite
